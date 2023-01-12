@@ -1,4 +1,4 @@
-# For Statemnts CFU
+# For Statements CFU
 
 ## Setup
 
